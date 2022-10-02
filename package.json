@@ -1,5 +1,7 @@
-{
+{      
+	"author": "Daniel Simonson",
 	"name": "fcc-learn-npm-package-json",
+	"description": "a description",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
